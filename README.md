@@ -9,8 +9,8 @@ Este documento detalha os passos necessários para instalar, configurar e proteg
 Execute os seguintes comandos para baixar os binários do RustDesk:
 
 ```sh
-wget https://github.com/rustdesk/rustdesk-server/releases/latest/download/hbbs-linux-amd64
-wget https://github.com/rustdesk/rustdesk-server/releases/latest/download/hbbr-linux-amd64
+wget https://github.com/rustdesk/rustdesk-server/releases/download/1.1.14/rustdesk-server-hbbs_1.1.14_amd64.deb
+wget https://github.com/rustdesk/rustdesk-server/releases/download/1.1.14/rustdesk-server-hbbr_1.1.14_amd64.deb
 ```
 
 Dê permissão de execução aos arquivos baixados:
